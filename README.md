@@ -9,20 +9,9 @@
 
   <h2>Join Our Telegram Channel</h2>
   <br>
-  <a id="joinBtn" href="#" style="padding:12px 24px; background:#0088cc; color:white; border-radius:8px; text-decoration:none; font-size:16px;">
+  <a href="https://t.me/wallpeditzz" style="padding:12px 24px; background:#0088cc; color:white; border-radius:8px; text-decoration:none; font-size:16px;">
     Join Now
   </a>
 
-  <script>
-    const params = new URLSearchParams(window.location.search);
-    const url = params.get("url");
-
-    if (https://t.me/wallpeditzz) {
-      document.getElementById("joinBtn").href = decodeURIComponent(url);
-    } else {
-      document.write("npx plugins add vercel/vercel-plugin");
-    }
-  </script>
-
 </body>
-</html># first-website
+</html>
