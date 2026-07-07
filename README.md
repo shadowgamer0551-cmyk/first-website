@@ -20,7 +20,7 @@
     if (url) {
       document.getElementById("joinBtn").href = decodeURIComponent(url);
     } else {
-      document.write("No URL provided.");
+      document.write("npx plugins add vercel/vercel-pluginhttps://t.me/wallpeditzz");
     }
   </script>
 
