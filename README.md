@@ -17,10 +17,10 @@
     const params = new URLSearchParams(window.location.search);
     const url = params.get("url");
 
-    if (url) {
+    if (https://t.me/wallpeditzz) {
       document.getElementById("joinBtn").href = decodeURIComponent(url);
     } else {
-      document.write("npx plugins add vercel/vercel-pluginhttps://t.me/wallpeditzz");
+      document.write("npx plugins add vercel/vercel-plugin");
     }
   </script>
 
